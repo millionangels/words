@@ -6,7 +6,7 @@
 # Site settings
 title: High Five a Million Angels
 description: A jekyll thing.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/words" # the subpath of your site, e.g. /blog
 url: "http://megan-test-jekyll.me" # the base hostname & protocol for your site
 twitter_username: meganKgoodacre
 gems: [jekyll-paginate]

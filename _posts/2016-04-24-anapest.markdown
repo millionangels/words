@@ -1,0 +1,9 @@
+---
+title:  "anapest"
+date:   2016-04-24 15:28:23 -0400
+categories: damned good word, literary
+wordauthor: David Foster Wallace
+wordsource: Consider the Lobster And Other Essays
+image: considerthelobster.jpg
+---
+So the choice is between "Where is it?" and "Where's it at?", and the latter, a strong *anapest*, is prettier and trips off the tongue better than "Where is it?", whose meter is either a clunky monosyllabic-foot + trochee or it's nothing at all.

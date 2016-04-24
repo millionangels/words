@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article class="word">
+
+  <header class="word-header">
+    <h1 class="word-title">{{ page.title }}</h1>
+
+  </header>
+
+  <div class="word-content">
+    {{ content }}
+  </div>
+  <div class="word-image">
+    {% if page.image %}
+      <img src="img/{{ page.image }}">
+    {% endif %}
+  </div>
+  <div class="word-meta">
+    <h4 class="word-author">{{ page.wordauthor }}</h4>
+    <h5 class="word-tags">{{ page.categories }}</h5>
+  </div>
+
+</article>

@@ -1,0 +1,35 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+
+# Site settings
+title: High Five a Million Angels
+description: A jekyll thing.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://megan-test-jekyll.me" # the base hostname & protocol for your site
+twitter_username: meganKgoodacre
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: "" # empty string means all files in the project
+      type: "posts"
+    values:
+      layout: "word"
+      author: millionangels
+  -
+    scope:
+      path: "" # empty string means all files in the project
+      type: "pages"
+    values:
+      layout: "page"

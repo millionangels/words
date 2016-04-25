@@ -1,0 +1,9 @@
+---
+title:  "bitch"
+date:   2016-04-24
+tags: [little bit rude, literary, double entendre]
+wordauthor: David Foster Wallace
+wordsource: Consider the Lobster
+image: considerthelobster.jpg
+---
+Winter here is a pitiless *bitch*, but in the warm months Bloomington is a lot like a seaside community except here the ocean is corn, which grows steroidically and stretches to the earth’s curve in all directions.

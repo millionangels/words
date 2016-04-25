@@ -1,0 +1,9 @@
+---
+title:  "book"
+date:   2016-04-24
+tags: [design, literary, wise]
+wordauthor: Robert Bringhurst
+wordsource: The Elements of Typographic Style
+image: elementsoftypographicstyle.jpg
+---
+A *book* is a flexible mirror of the mind and the body. Its overall size and proportions, the color and texture of the paper, the sound it makes as the pages turn, and the smell of the paper, adhesive and ink, all blend with the size and form and placement of the type to reveal a little about the world in which it was made. If the book appears to be only a paper machine, produced at their own convenience by other machines, only machines will want to read it.

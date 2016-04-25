@@ -1,0 +1,13 @@
+---
+title:  "bastard"
+date:   2016-04-24
+tags: [little bit rude, funny, double entendre]
+wordauthor: Dr. Kelso
+wordsource: Scrubs, Season 4, My Common Enemy
+image: scrubs4.jpg
+---
+Dr. Perry Cox: Thanks to your little gesture, she actually believes that the earth is full of people who, deep down, are filled with kindness and caring.
+
+Dr. Kelso: Well that's absurd. People are *bastard*-coated *bastards* with *bastard* filling.
+
+Dr. Perry Cox: Exactly.

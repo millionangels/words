@@ -1,0 +1,9 @@
+---
+title:  "artist"
+date:   2016-04-24
+tags: [art, wise]
+wordauthor: David Rakoff
+wordsource: Half Empty
+image: halfempty.jpg
+---
+The only thing that makes one an *artist* is making art. And that requires the precise opposite of hanging out; a deeply lonely and unglamorous task of tolerating oneself long enough to push something out

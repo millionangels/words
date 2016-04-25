@@ -1,0 +1,9 @@
+---
+title:  "athwart"
+date:   2016-04-24
+tags: [damned good word]
+wordauthor: David Foster Wallace
+wordsource: Consider the Lobster
+image: considerthelobster.jpg
+---
+...centrally located *athwart* both one-way main drags...

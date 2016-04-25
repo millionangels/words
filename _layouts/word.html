@@ -5,20 +5,28 @@ layout: default
 
   <header class="word-header">
     <h1 class="word-title">{{ page.title }}</h1>
-
   </header>
 
   <div class="word-content">
     {{ content }}
   </div>
+
+  <div class="word-meta">
+    <h4 class="word-author">Said/written by: {{ page.wordauthor }}</h4>
+    <h5 class="word-source">In: {{ page.wordsource }}</h5>
+    {% if page.tags %}
+    Word type:
+      <ul class="word-tags">
+        {% for tag in page.tags %}
+          <li class="word-tag">{{ tag }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
   <div class="word-image">
     {% if page.image %}
       <img src="img/{{ page.image }}">
     {% endif %}
-  </div>
-  <div class="word-meta">
-    <h4 class="word-author">{{ page.wordauthor }}</h4>
-    <h5 class="word-tags">{{ page.categories }}</h5>
   </div>
 
 </article>

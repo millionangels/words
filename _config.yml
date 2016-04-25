@@ -10,9 +10,12 @@ baseurl: "/words" # the subpath of your site, e.g. /blog
 url: "http://millionangels.github.io/words" # the base hostname & protocol for your site
 twitter_username: meganKgoodacre
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 10
 paginate_path: "page:num"
 
+# Custom collections
+collections:
+- words
 
 # Build settings
 markdown: kramdown
@@ -31,5 +34,12 @@ defaults:
     scope:
       path: "" # empty string means all files in the project
       type: "pages"
+    values:
+      layout: "page"
+
+  -
+    scope:
+      path: "" # empty string means all files in the project
+      type: "sources"
     values:
       layout: "page"

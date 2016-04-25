@@ -1,7 +1,7 @@
 ---
 title:  "anapest"
-date:   2016-04-24 15:28:23 -0400
-categories: damned good word, literary
+date:   2016-04-24
+tags: [damned good word, literary]
 wordauthor: David Foster Wallace
 wordsource: Consider the Lobster And Other Essays
 image: considerthelobster.jpg

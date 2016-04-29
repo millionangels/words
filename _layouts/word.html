@@ -12,10 +12,9 @@ layout: default
   </div>
 
   <div class="word-meta">
-    <h4 class="word-author">Said/written by: {{ page.wordauthor }}</h4>
-    <h5 class="word-source">In: {{ page.wordsource }}</h5>
+    <h4 class="word-author">{{ page.wordauthor }}</h4>
+    <h5 class="word-source">{{ page.wordsource }}</h5>
     {% if page.tags %}
-    Word type:
       <ul class="word-tags">
         {% for tag in page.tags %}
           <li class="word-tag">{{ tag }}</li>
@@ -23,10 +22,10 @@ layout: default
       </ul>
     {% endif %}
   </div>
-  <div class="word-image">
+  <!-- <div class="word-image">
     {% if page.image %}
       <img src="img/{{ page.image }}">
     {% endif %}
-  </div>
+  </div> -->
 
 </article>

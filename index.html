@@ -10,10 +10,7 @@ layout: default
     {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.wordauthor }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
